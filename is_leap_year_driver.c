@@ -1,16 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*
- *Programmer: 		Sheila Li
- *Class and Semester:	CIS 1057 Section 004 Fall 2024
- *Date: 		Wednesday, October 23, 2024
- *Assignment:		Lab 5
- *Description:		The driver for is_a_leap_year; check whether the year
-			inputted is a leap year or not.
-*/
-
-
 //driver for is_a_leap_year
 //protoype function
 int is_a_leap_year(int year);
